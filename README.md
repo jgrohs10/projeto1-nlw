@@ -1,3 +1,2 @@
 # projeto1-nlw
-Cápsula do tempo Jonathan Grohs
-primeiro projeto, utilizando as seguintes tecnologias: HTML, CSS, GIT E GITHUB.
+Meu primeir projeto , "cápsula do tempo" utilizando as seguintes tecnologias: HTML, CSS, GIT  e GITHUB
